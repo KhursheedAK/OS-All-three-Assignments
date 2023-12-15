@@ -1,0 +1,2 @@
+9:I have written a program in c to test the word 'out'
+11:and store it in a txt file named 'output'

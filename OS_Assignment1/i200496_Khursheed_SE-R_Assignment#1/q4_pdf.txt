@@ -1,0 +1,12 @@
+I am Khursheed
+
+I am a student of Software Engineering
+
+My roll number is 20i-0496
+
+My section is SE-R
+
+I have written a program in c to test the word 'out'
+
+and store it in a txt file named 'output'
+
